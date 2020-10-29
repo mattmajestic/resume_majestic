@@ -1,0 +1,29 @@
+[
+  {
+      "grouping":"Architecture",
+      "skills":[ "Load Balancing","Microservices","RESTful APIs","Data Engineering"]
+  },{
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":[ "R","Python","git","linux","R Shiny","plotly"]
+  },
+  {
+      "grouping":"Platform Development & Administration",
+      "skills":[ "Azure DevOps","Github","Azure","R Shiny"]
+  },
+  {
+      "grouping":"Data Management",
+      "skills":[
+        {"name":"Microsoft SQL Server","icon":"msql_server"},
+        {"name":"Oracle","icon":"database"},
+        {"name":"Apache Spark"}
+      ]
+  },
+  {
+    "grouping":"Containers & Cloud",
+      "skills":[
+          {"name":"Docker","link":"https://docker.com"},
+          {"name":"AWS","link":"https://aws.amazon.com"},
+          {"name":"Linux","link":"https://bosh.io"}
+      ]
+  }
+]

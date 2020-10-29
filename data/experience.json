@@ -1,0 +1,23 @@
+[
+    {
+        "role":"R Shiny Developer",
+        "company":"Coca Cola Beverages Florida",
+        "summary":"Led and coded project to build an operation effciency tool using machine learning to better predict customer value to fairly give promotions on equipment and delivery levels ",
+        "range":"August 2020 - Present",
+        "type":"Contract"
+    },
+    {
+        "role":"Data Analystics Consultant",
+        "company":"Transamerica",
+        "summary":"Built an R Shiny app integrating Qualtrics and Salesforce data for more effective reporting",
+        "range":"April 2020 - July 2020",
+        "type":"Contract"
+    },
+    {
+        "role":"R Shiny Developer",
+        "company":"Ovintiv",
+        "summary":"Developed an app to predict oil and determine the profit after taxes via interactive maps and widgets",
+        "range":"August 2019 - April 2020",
+        "type":"Contract"
+    }
+]

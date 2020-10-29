@@ -1,0 +1,43 @@
+title = "Matt Majestic"
+baseURL = "https://www.majesticdatasolutions.com/"
+theme = "hugo-resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Denver, Colorado"
+email = "mattmajestic@strictlyresearch.com"
+favicon = "/favicon.ico"
+firstName = "Matt"
+lastName = "Majestic"
+phone = "1-706-575-9416"
+profileImage = "img/mm_gh.png"
+showEducation = true
+showExperience = true
+showOpenSource = true
+showProjects = true
+showPublications = true
+showQr = true
+showSkills = true
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "XX-123446-01"
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/matthew-majestic/"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/mattmajestic/"
+name = "GitHub"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
