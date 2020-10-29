@@ -17,10 +17,10 @@ phone = "1-706-575-9416"
 profileImage = "img/mm_gh.png"
 showEducation = true
 showExperience = true
-showOpenSource = true
-showProjects = true
-showPublications = true
-showQr = true
+showOpenSource = false
+showProjects = false
+showPublications = false
+showQr = false
 showSkills = true
 
 [params.google]
