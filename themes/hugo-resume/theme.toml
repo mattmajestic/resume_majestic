@@ -11,8 +11,8 @@ features = ["social","mobile","projects","responsive","qr-code","cms"]
 min_version = "0.62"
 
 [author]
-  name = "Eddie Webb"
-  homepage = "https://edwardawebb.com"
+  name = "Matt Majestic"
+  homepage = "https://www.majesticdatasolutions.com/"
 
 
 # If porting an existing theme

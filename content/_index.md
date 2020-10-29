@@ -8,4 +8,4 @@ sitemap:
   priority: 1
 title: Home
 ---
-Proven Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.
+Data Science practioinor primarily with R & Python to develop software on a variety of platforms including AWS & Azure.
