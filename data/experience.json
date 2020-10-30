@@ -4,7 +4,8 @@
         "company":"Coca Cola Beverages Florida",
         "summary":"Led and coded project to build an operation effciency tool using machine learning to better predict customer value to fairly give promotions on equipment and delivery levels ",
         "range":"August 2020 - Present",
-        "type":"Contract"
+        "type":"Contract",
+        "tech": "R Shiny, Azure DevOps, Docker, Debian, Git"
     },
     {
         "role":"Data Analystics Consultant",
