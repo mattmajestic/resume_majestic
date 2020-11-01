@@ -8,6 +8,13 @@
         "tech": "R Shiny, Azure DevOps, Docker, Debian, Git"
     },
     {
+        "role":"R Shiny Developer",
+        "company":"Kellogg",
+        "summary":"Developed modules to slect promotional events in order to update a database for the field.",
+        "range":"April 2020 - July 2020",
+        "type":"Contract"
+    },
+    {
         "role":"Data Analystics Consultant",
         "company":"Transamerica",
         "summary":"Built an R Shiny app integrating Qualtrics and Salesforce data for more effective reporting",

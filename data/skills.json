@@ -1,14 +1,14 @@
 [
   {
       "grouping":"Architecture",
-      "skills":[ "Load Balancing","Microservices","RESTful APIs","Data Engineering"]
+      "skills":[ "SDLC","R","Python","RESTful APIs","Data Engineering"]
   },{
       "grouping":"Languages, Operating Systems & Tools",
       "skills":[ "R","Python","git","linux","R Shiny","plotly"]
   },
   {
       "grouping":"Platform Development & Administration",
-      "skills":[ "Azure DevOps","Github","Azure","R Shiny"]
+      "skills":[ "Azure DevOps","Github","Azure"]
   },
   {
       "grouping":"Data Management",
