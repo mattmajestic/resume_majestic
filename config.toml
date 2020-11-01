@@ -1,5 +1,5 @@
 title = "Matt Majestic Resume"
-baseURL = "https://www.majesticdatasolutions.com/"
+baseURL = "https://upbeat-swartz-7f78a9.netlify.app/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
