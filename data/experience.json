@@ -1,31 +1,50 @@
 [
     {
         "role":"R Shiny Developer",
-        "company":"Coca Cola Beverages Florida",
-        "summary":"Led and coded project to build an operation effciency tool using machine learning to better predict customer value to fairly give promotions on equipment and delivery levels ",
+        "company":"[Coca Cola Beverages Florida](https://cocacolaflorida.com/)",
+        "summary":"Led and coded project to build an operation effciency tool using machine learning to better predict customer value to fairly give promotions on equipment and delivery levels.",
         "range":"August 2020 - Present",
         "type":"Contract",
         "tech": "R Shiny, Azure DevOps, Docker, Debian, Git"
     },
     {
         "role":"R Shiny Developer",
-        "company":"Kellogg",
+        "company":"[Kellogg](https://www.kelloggs.com/en_US/home.html)",
         "summary":"Developed modules to select promotional events in order to update a database for the field data cleaning.",
         "range":"September 2020",
         "type":"Contract"
     },
     {
         "role":"Data Analystics Consultant",
-        "company":"Transamerica",
-        "summary":"Built an R Shiny app integrating Qualtrics and Salesforce data for more effective reporting",
+        "company":"[Transamerica](https://www.transamerica.com/)",
+        "summary":"Built an R Shiny app integrating Qualtrics and Salesforce data for more effective reporting.",
         "range":"April 2020 - July 2020",
         "type":"Contract"
     },
     {
         "role":"R Shiny Developer",
-        "company":"Ovintiv",
-        "summary":"Developed an app to predict oil and determine the profit after taxes via interactive maps and widgets",
+        "company":"[Ovintiv](https://www.ovintiv.com/)",
+        "summary":"Developed an app to predict oil and determine the profit after taxes via interactive maps and widgets.",
         "range":"August 2019 - April 2020",
         "type":"Contract"
+    },
+    {
+        "role":"Data Analytics Consultant",
+        "company":"[Evercommerce](https://www.evercommerce.com/)",
+        "summary":"Established a data analytics function for the parent company of over 30 subsidiaries with Software as a Solution applications for various verticals in the Small/Medium Business space.",
+        "range":"Novembver 2018 - July 2019",
+        "type":"Contract"
+    },
+    {
+        "role":"Senior Market Research Analyst",
+        "company":"[TSYS now Global Payments](https://www.globalpaymentsinc.com/en-ca)",
+        "summary":"Led the development of a newly formed Market Research/Analytics Department within the Merchant Services Division for one of North America’s largest payment processors.",
+        "range":"February 2018 - November 2018"
+    },
+     {
+        "role":"Analyst",
+        "company":"[SKIM Analytical](https://skimgroup.com/)",
+        "summary":"Worked with clients to determine strategies for product development innovation, product pricing and media campaigns using consumer decision behavior analysis.  As project lead, directed work on 8 projects generating over $500,000 in revenue, writing proposals, building interactive dashboards, and presentations of findings.",
+        "range":"January 2017 - February 2018"
     }
 ]
