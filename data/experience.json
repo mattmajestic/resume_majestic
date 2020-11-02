@@ -32,7 +32,7 @@
         "role":"Data Analytics Consultant",
         "company":"[Evercommerce](https://www.evercommerce.com/)",
         "summary":"Established a data analytics function for the parent company of over 30 subsidiaries with Software as a Solution applications for various verticals in the Small/Medium Business space.",
-        "range":"Novembver 2018 - July 2019",
+        "range":"November 2018 - July 2019",
         "type":"Contract"
     },
     {
@@ -46,5 +46,17 @@
         "company":"[SKIM Analytical](https://skimgroup.com/)",
         "summary":"Worked with clients to determine strategies for product development innovation, product pricing and media campaigns using consumer decision behavior analysis.  As project lead, directed work on 8 projects generating over $500,000 in revenue, writing proposals, building interactive dashboards, and presentations of findings.",
         "range":"January 2017 - February 2018"
+    },
+    {
+        "role":"Analytics Specialist",
+        "company":"[Vizeum of Dentsu Aegis](https://www.dentsu.com/us/en)",
+        "summary":"Responsibilities included pulling, cleaning, analyzing, and presenting secondary data findings for Fox and Fox Sports, Discover Student Loans, Sonos, and Fox Theatrical.",
+        "range":"June 2017 - February 2018"
+    },
+    {
+        "role":"Analyst",
+        "company":"[Nielsen](https://www.nielsen.com/us/en/)",
+        "summary":"Worked as part of the Analytics Team onsite at Nestle’s North American Head Quarters.  Conducted multidimensional analysis across four categories, including frozen foods, beverage, ice cream, and confections.",
+        "range":"December 2015 - February 2016"
     }
 ]
