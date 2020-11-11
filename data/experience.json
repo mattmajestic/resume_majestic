@@ -1,9 +1,17 @@
 [
     {
         "role":"R Shiny Developer",
+        "company":"[McAfee](https://www.mcafee.com/en-us/index.html)",
+        "summary":"Hired to implement tools and collaborate with Data Scientists providing predictive solutions to the organization",
+        "range":"November 2020 - Present",
+        "type":"Contract",
+        "tech": "R Shiny, Azure DevOps, Docker, Debian, Git, Apache Spark,"
+    },
+    {
+        "role":"R Shiny Developer",
         "company":"[Coca Cola Beverages Florida](https://cocacolaflorida.com/)",
         "summary":"Led and coded project to build an operation effciency tool using machine learning to better predict customer value to fairly give promotions on equipment and delivery levels.",
-        "range":"August 2020 - Present",
+        "range":"August 2020 - November 2020",
         "type":"Contract",
         "tech": "R Shiny, Azure DevOps, Docker, Debian, Git"
     },
