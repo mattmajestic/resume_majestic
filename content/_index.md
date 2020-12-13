@@ -8,4 +8,4 @@ sitemap:
   priority: 1
 title: Home
 ---
-Data Science practioinor primarily with R & Python to develop software on a variety of platforms including AWS & Azure.
+Data Science practioiner primarily with R & Python to develop software on a variety of platforms including AWS & Azure.
