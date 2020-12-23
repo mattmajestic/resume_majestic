@@ -1,6 +1,13 @@
 [
     {
         "role":"R Shiny Developer",
+        "company":"[McAfee](https://mcafee.com/)",
+        "summary":"Contracted to scale and build shiny apps for massive data distillation for model building for enhanced cross sell of products in the McAfee portfolio.",
+        "range":"December 2020 - Present",
+        "type":"Contract",
+        "tech": "R Shiny, Azure, Shinyapps.io, httr, Git"
+    },{
+        "role":"R Shiny Developer",
         "company":"[Coca Cola Beverages Florida](https://cocacolaflorida.com/)",
         "summary":"Led and coded project to build an operation effciency tool using machine learning to better predict customer value to fairly give promotions on equipment and delivery levels.",
         "range":"August 2020 - November 2020",
