@@ -2,9 +2,9 @@
     {
         "role":"R Shiny Developer",
         "company":"[Wavicle Data Solutions LLC](https://wavicledata.com/)",
-        "summary":"Contracted build forecasts using Prophet within R Shiny to predict QSR sales.",
+        "summary":"Contracted to build forecasts using Prophet within R Shiny to predict QSR sales.",
         "range":"March 2021 - Present",
-        "type":"Contract",
+        "type":"W2",
         "tech": "R Shiny, Prophet, RSConnect, REST Apis, ETL"
     },
     {
