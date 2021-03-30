@@ -1,9 +1,17 @@
 [
     {
         "role":"R Shiny Developer",
+        "company":"[Wavicle Data Solutions LLC](https://wavicledata.com/)",
+        "summary":"Contracted build forecasts using Prophet within R Shiny to predict QSR sales.",
+        "range":"March 2021 - Present",
+        "type":"Contract",
+        "tech": "R Shiny, Prophet, RSConnect, REST Apis, ETL"
+    },
+    {
+        "role":"R Shiny Developer",
         "company":"[McAfee](https://mcafee.com/)",
         "summary":"Contracted to scale and build shiny apps for massive data distillation for model building for enhanced cross sell of products in the McAfee portfolio.",
-        "range":"December 2020 - Present",
+        "range":"December 2020 - March 2021",
         "type":"Contract",
         "tech": "R Shiny, Azure, Shinyapps.io, httr, Git"
     },{
