@@ -1,10 +1,10 @@
 [
     {
         "role":"R Shiny Developer",
-        "company":"[Wavicle Data Solutions LLC](https://wavicledata.com/)",
-        "summary":"Contracted to build forecasts using Prophet within R Shiny to predict QSR sales.",
-        "range":"March 2021 - Present",
-        "type":"W2",
+        "company":"[Penn State University](https://www.psu.edu/)",
+        "summary":"Contracted to build web application framework.",
+        "range":"May 2021 - Present",
+        "type":"Part-Time",
         "tech": "R Shiny, Prophet, RSConnect, REST Apis, ETL"
     },
     {
