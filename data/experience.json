@@ -1,8 +1,8 @@
 [
     {
         "role":"R Shiny Developer",
-        "company":"[Penn State University](https://www.psu.edu/)",
-        "summary":"Contracted to build web application framework.",
+        "company":"[Pennsylvania State University](https://www.psu.edu/)",
+        "summary":"Contracting part time to build web application framework for instructors and students.",
         "range":"May 2021 - Present",
         "type":"Part-Time",
         "tech": "R Shiny, Prophet, RSConnect, REST Apis, ETL"
