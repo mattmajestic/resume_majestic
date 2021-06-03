@@ -5,7 +5,15 @@
         "summary":"Contracting part time to build web application framework for instructors and students.",
         "range":"May 2021 - Present",
         "type":"Part-Time",
-        "tech": "R Shiny, Prophet, RSConnect, REST Apis, ETL"
+        "tech": "R Shiny, Auth0, Modules, AWS, EC2"
+    },
+    {
+        "role":"R Programmer",
+        "company":"[WarnerMedia](https://www.warnermedia.com/us)",
+        "summary":"Contracting part time to build data pipelines and web applications for business/reporting effciency.",
+        "range":"April 2021 - Present",
+        "type":"Part-Time",
+        "tech": "R Shiny, AWS, Comscore, RMarkdown, Snowflake"
     },
     {
         "role":"R Shiny Developer",
