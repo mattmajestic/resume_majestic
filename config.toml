@@ -8,8 +8,8 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-address = "Denver, Colorado"
-email = "mattmajestic@strictlyresearch.com"
+address = "Atlanta, Georgia"
+email = "matt@apprazv.com"
 favicon = "/favicon.ico"
 firstName = "Matt"
 lastName = "Majestic"
