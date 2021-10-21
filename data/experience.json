@@ -3,7 +3,7 @@
         "role":"Full Stack Developer",
         "company":"[Pennsylvania State University](https://www.psu.edu/)",
         "summary":"Contracting part time to build a web application infrasturcture for instructors and students to easily implement computerized adaptive testing.  Technologies include: R Shiny, AWS S3, AWS EC2, Shiny Modules.",
-        "range":"May 2021 - Present",
+        "range":"May 2021 - November 2021",
         "type":"Part-Time",
         "tech": "R Shiny, Auth0, Modules, AWS, EC2"
     },
@@ -11,7 +11,7 @@
         "role":"R Programmer",
         "company":"[WarnerMedia](https://www.warnermedia.com/us)",
         "summary":"Contracting part time to build data pipelines and web applications for business/reporting effciency along with distilling Amazon Prime Video/Netflix data to effectively target new viewers of CNN content. Technologies include: R shiny, AWS S3, Snowflake, Comscore, Rmarkdown",
-        "range":"April 2021 - Present",
+        "range":"April 2021 - November 2021",
         "type":"Part-Time",
         "tech": "R Shiny, AWS, Comscore, RMarkdown, Snowflake"
     },
