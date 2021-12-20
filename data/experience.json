@@ -1,5 +1,12 @@
 [
     {
+        "role":"Developer",
+        "company":"[Cointel Finance](https://www.cointel.finance/)",
+        "summary":"Programmed an arbitrage bot in Web3 Python..",
+        "range":"November 2021 - Present",
+        "tech": "Web3, Python, R Shiny, Docker"
+    },
+    {
         "role":"Full Stack Developer",
         "company":"[Pennsylvania State University](https://www.psu.edu/)",
         "summary":"Contracting part time to build a web application infrasturcture for instructors and students to easily implement computerized adaptive testing.  Technologies include: R Shiny, AWS S3, AWS EC2, Shiny Modules.",
