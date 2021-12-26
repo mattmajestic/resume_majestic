@@ -2,7 +2,7 @@
     {
         "role":"Developer",
         "company":"[Cointel Finance](https://www.cointel.finance/)",
-        "summary":"Programmed an arbitrage bot in Web3 Python. Created data pipelines for storage of arbitrage opportunities for future analytics.  Pipeline was done on with an on-prem server config primarily using Docker images of custom websockets to Web3 Contract ABIs.  Trade execution contract was compiled & deployed via Remix",
+        "summary":"Programmed an arbitrage bot in Web3.py . Created data pipelines for storage of arbitrage opportunities for future analytics.  Pipeline was done with an on-prem server config primarily using Docker images of custom websockets to Web3 Contract ABIs.  Trade execution contract was compiled & deployed via Remix",
         "range":"November 2021 - Present",
         "tech": "Web3, Python, R Shiny, Solidity, SQLite, Docker"
     },
