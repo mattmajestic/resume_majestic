@@ -2,7 +2,7 @@
     {
         "role":"Developer",
         "company":"[Cointel Finance](https://www.cointel.finance/)",
-        "summary":"Developed a crypto & NFT aggregation wallet for effective financial modeling ofyour portfolio.  Aggregated dozens of APIs for wallet integrations to get a holistic views of crypto & NFT portfolios. Coded tax functions to see implications of short & long term terms gains on DeFi assets. Provide scratch made authentication along with Google Single Sign On. Payment integration with Stripe.",
+        "summary":"Developed a crypto & NFT aggregation wallet for effective financial modeling of your portfolio.  Aggregated dozens of APIs for wallet integrations to get a holistic views of crypto & NFT portfolios. Coded tax functions to see implications of short & long term terms gains on DeFi assets. Provide scratch made authentication along with Google Single Sign On. Payment integration with Stripe.",
         "range":"November 2021 - Present",
         "tech": "Stripe, Google SSO, R Shiny, Python, GCP, Docker"
     },
