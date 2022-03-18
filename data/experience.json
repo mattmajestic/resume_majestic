@@ -1,8 +1,8 @@
 [
     {
-        "role":"Sr Engineer",
+        "role":"Managing Consultant",
         "company":"[Guidehouse](https://www.guidehouse.com/)",
-        "summary":"Engineering an RStudio achitecture for scalable app & api solutions in R.",
+        "summary":"Engineering solutions in R.",
         "range":"March 2022 - Present",
         "tech": "RSConnect, Docker, Kubernetes"
     },
