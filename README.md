@@ -1,3 +1,3 @@
 # My Personal Website
 
-[mattmajestic.com](mattmajestic.com)
+[mattmajestic.com](https://www.mattmajestic.com)
