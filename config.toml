@@ -8,12 +8,11 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-address = "Puerto Rico"
+address = "EST"
 email = "matt@apprazv.com"
 favicon = "/favicon.ico"
 firstName = "Matt"
 lastName = "Majestic"
-#phone = "1-706-575-9416"
 profileImage = "img/mm_gh_small.png"
 showEducation = true
 showExperience = true
