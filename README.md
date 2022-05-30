@@ -1,3 +1,3 @@
-# My Personal Website
+# Hugo Resume via R Blobdown
 
-[mattmajestic.com](https://www.mattmajestic.com)
+Check it out at [mattmajestic.com](https://www.mattmajestic.com)
