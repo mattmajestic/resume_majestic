@@ -2,7 +2,7 @@
     {
         "role":"Managing Consultant",
         "company":"[Guidehouse](https://www.guidehouse.com/)",
-        "summary":"Engineering solutions in R.",
+        "summary":"Engineering solutions to help increase consultants effciencies for client deliverables.  This includes customized containerized environments leading to cost savings of computing resources for common data science tasks within R & Python primarily.",
         "range":"March 2022 - Present",
         "tech": "RSConnect, Docker, Kubernetes"
     },
