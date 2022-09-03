@@ -8,4 +8,4 @@ sitemap:
   priority: 1
 title: Home
 ---
-Data Science practitioner primarily with R & Python to develop software on a variety of platforms including AWS & Azure web application scaling.
+Full Stack Web Developer implementing data science solutions from R & Python into production via Docker containers via major cloud providers including AWS, Azure, & GCP.
